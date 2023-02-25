@@ -7,7 +7,7 @@
    color: white; 
    background-color: black;
    padding: 20px;
-   font-size: 18px;
+   font-size: 16px;
    /* font-family: sans-serif; */
    height: 40px;
    display: flex;
@@ -32,7 +32,7 @@ table{
     color: black;
     border: 1px solid black;
     border-collapse: collapse;
-    height: 300px;
+    height: 150px;
     width: 98%;
     outline: none;
     text-align: center;
@@ -48,7 +48,7 @@ table{
     border-left: 1px solid black;
     border-right: 1px solid black;
   
-    padding: 20px;
+    padding: 10px;
   }
   .container {
     margin-left: 12px;
@@ -57,8 +57,8 @@ table{
   }
   
   input {
-    height: 30px;
-    width: 150px;
+    height: 20px;
+    width: 170px;
     padding: 10px;
     font-size: 20px;
   }
